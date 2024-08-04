@@ -8,6 +8,12 @@
  
 #EXTINF:-1 group-logo="https://allpngfree.com/apf-prod-storage-api/storage/thumbnails/live-streaming-logo-png-images-download-thumbnail-1645119687.jpg", 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://foto.kontan.co.id/nw9lasNhEnQfEMjjIwHD6jBnjCc=/smart/2024/07/26/1291445785p.jpg" group-title="# 🟢LIVE EVENT🟢 #", Piala Presiden
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722786410~acl=/drm/dash/*~id=155691731~hmac=feaa61707a4a6e69a00fe31c51a707135a70f8a97a4fc120f25cddbb2a843b98
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="# 🟢LIVE EVENT🟢 #",LIGA 1 BRI
 http://iptvtree.net:8080/e891d265/89d742c3/162138
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
@@ -487,8 +493,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/INDOSIAR.jpeg",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
  
 #EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/MOJI.webp",MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
